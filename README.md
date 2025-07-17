@@ -3,8 +3,6 @@
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
-
 - 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/huzaifadevcloud/Three-Tier-K8s-CI-CD-Infrastructure-GitOps)
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, (Programming Language)**
