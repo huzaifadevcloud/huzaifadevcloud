@@ -7,9 +7,6 @@
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, (Programming Language)**
 
-- 📫 How to reach me **huzaifahatim3402@gmail.com**
-
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/blockchain-developer-specialist/](https://www.linkedin.com/in/aman-devops)
 
 
