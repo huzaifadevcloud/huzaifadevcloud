@@ -3,7 +3,7 @@
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 
-- 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/huzaifadevcloud/Three-Tier-K8s-CI-CD-Infrastructure-GitOps)
+- 🔭 I’m currently working on to get [Certification-of-AWS]
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, (Programming Language)**
 
