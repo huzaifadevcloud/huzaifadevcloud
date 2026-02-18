@@ -3,8 +3,6 @@
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 
-- 🔭 I’m currently working on to get [Certification-of-AWS]
-
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, (Programming Language)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/huzaifa-devops-engineer/](https://www.linkedin.com/in/huzaifa-devops-engineer)
